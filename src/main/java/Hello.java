@@ -3,7 +3,7 @@ public class Hello {
     private String age;
 
     /**
-     * 主键
+     * 主键adasd
      */
     private Integer id;
 }
