@@ -4,7 +4,6 @@ public class Hello {
 
     /**
      * 主键
-     * 1123
      */
     private Integer id;
 }
